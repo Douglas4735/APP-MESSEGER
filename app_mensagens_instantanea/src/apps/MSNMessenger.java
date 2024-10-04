@@ -16,4 +16,10 @@ public class MSNMessenger extends ServicoMensagemInstantanea{
 
 	}
 
+	@Override
+	protected void ValidarConectadoInternet() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

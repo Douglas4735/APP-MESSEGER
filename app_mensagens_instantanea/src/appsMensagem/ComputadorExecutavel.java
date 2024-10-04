@@ -45,6 +45,9 @@ public class ComputadorExecutavel {
 		}
 		smi.enviarMensagem();
 		smi.receberMensagem();
+		
+		
+		
 	
 		
 		

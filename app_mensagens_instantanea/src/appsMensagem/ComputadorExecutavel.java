@@ -1,5 +1,10 @@
 package appsMensagem;
 
+import apps.FacebookMessenger;
+import apps.MSNMessenger;
+import apps.ServicoMensagemInstantanea;
+import apps.Telegram;
+
 public class ComputadorExecutavel {
 
 	public static void main(String[] args) {
@@ -40,6 +45,7 @@ public class ComputadorExecutavel {
 		}
 		smi.enviarMensagem();
 		smi.receberMensagem();
+	
 		
 		
 

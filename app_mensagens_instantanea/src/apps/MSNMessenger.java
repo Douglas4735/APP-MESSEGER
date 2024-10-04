@@ -1,9 +1,10 @@
-package appsMensagem;
+package apps;
 
 public class MSNMessenger extends ServicoMensagemInstantanea{
-
+	
 	@Override
 	public void enviarMensagem() {
+		ValidarConectadoInternet();
 		// TODO Auto-generated method stub
 		System.out.println("ENVIANDO MENSAGEM PELO MESSENGER");
 	}

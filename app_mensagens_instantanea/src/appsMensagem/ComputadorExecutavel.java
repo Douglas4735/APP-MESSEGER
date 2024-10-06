@@ -35,7 +35,7 @@ public class ComputadorExecutavel {
 		/*Não se Sabe qual
 		 * mas qualquer um deverá enviar e receber mensagem
 		 * */
-		String appEscolhido = "tlg";
+		String appEscolhido = "msn";
 		if(appEscolhido.equals("msn")){
 			smi = new MSNMessenger();
 		}else if(appEscolhido.equals("fcb")) {

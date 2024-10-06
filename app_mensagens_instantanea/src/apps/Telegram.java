@@ -17,10 +17,5 @@ public class Telegram extends ServicoMensagemInstantanea{
 
 	}
 
-	@Override
-	protected void ValidarConectadoInternet() {
-		// TODO Auto-generated method stub
-		
-	}
 
 }

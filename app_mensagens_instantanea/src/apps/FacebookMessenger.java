@@ -16,11 +16,5 @@ public class FacebookMessenger extends ServicoMensagemInstantanea{
 		System.out.println("RECEBENDO MENSAGEM PELO FACEBOOK");
 
 	}
-
-	@Override
-	protected void ValidarConectadoInternet() {
-		// TODO Auto-generated method stub
-		
-	}
-
+	
 }
